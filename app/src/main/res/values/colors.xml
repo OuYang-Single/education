@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3FA862</color>
+    <color name="colorPrimaryDark">#3FA862</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="prompt_txt_color">#b1b1b1</color>
+    <color name="prompt_line_color">#e4e3e3</color>
+    <color name="highlight_txt_color">#2acaff</color>
+    <color name="bt_color">#febf07</color>
+    <color name="bt_wait_bg_color">#9AE4E3E3</color>
+    <color name="prompt_other_line_color">#9f9f9f</color>
+    <color name="other_txt_color">#aeaeae</color>
+    <color name="txt_color">#000000</color>
+    <color name="text_color_navigation">#292929</color>
+    <color name="toolbar_color">#ffffff</color>
+    <color name="toolbar_title_color">#2A2C33</color>
+    <color name="toolbar_right_color">#2A2C33</color>
+</resources>

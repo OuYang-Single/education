@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SuperCircleView">
+
+        <!-- 内部圆的半价 -->
+        <attr name="min_circle_radio" format="integer"></attr>
+
+        <!-- 内圆环的宽度 -->
+        <attr name="inner_ring_width" format="float"></attr>
+
+        <!-- 外圆环的宽度 -->
+        <attr name="outer_ring_width" format="float"></attr>
+
+
+        <!-- 圆的颜色 -->
+        <attr name="circle_color" format="color"></attr>
+
+        <!-- 圆环的默认颜色 -->
+        <attr name="ring_normal_color" format="color"></attr>
+
+        <!-- 外围小圆的半价 -->
+        <attr name="select_circle_radio" format="integer"></attr>
+
+        <!-- 外围小圆离取色器距离 -->
+        <attr name="off_circle_distance" format="float"></attr>
+
+        <!-- 外围线宽度 -->
+        <attr name="line_width" format="float"></attr>
+
+        <!-- 默认选中颜色 -->
+        <attr name="selected_color" format="color"></attr>
+    </declare-styleable>
+
+</resources>

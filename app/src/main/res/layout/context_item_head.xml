@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+            android:id="@+id/txt_context_item_head_title"
+            android:textColor="@color/cardview_dark_background"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/home_context_item_margin"
+            android:layout_marginBottom="@dimen/home_context_item_margin"
+            android:layout_marginLeft="@dimen/home_item_txt_title_margin_left"
+            android:text="热门推荐"
+            android:textSize="16sp"
+            style="@style/style_txt"
+    />
+</LinearLayout>
